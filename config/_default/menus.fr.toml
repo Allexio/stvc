@@ -11,11 +11,6 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Accueil"
-  pageRef = "accueil"
-  weight = 1
-
-[[main]]
   name = "L'association"
   weight = 2
 
@@ -26,7 +21,7 @@
   weight = 1
 
 [[main]]
-  name = "Les Stands"
+  name = "Stands"
   parent = "L'association"
   pageRef = "stands"
   weight = 2
@@ -69,13 +64,13 @@
 [[main]]
   name = "Adhésion"
   parent = "Inscription"
-  pageRef = "adhesion"
+  pageRef = "inscription/adhésion"
   weight = 1
 
 [[main]]
   name = "Réinscription"
   parent = "Inscription"
-  pageRef = "réinscription"
+  pageRef = "inscription/réinscription"
   weight = 2
 
 
@@ -84,23 +79,17 @@
   pageRef = "règlement"
   weight = 5
 
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
-
-
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 1
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+  name = "À Propos du site"
+  pageRef = "a-propos"
+  weight = 2

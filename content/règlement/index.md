@@ -1,11 +1,9 @@
 ---
 title: "Règlement Intérieur"
 draft: false
-date: 2024-08-29
+date: 2024-09-29
 description: "a description"
-showWordCount: false
-showReadingTime: false
-showauthor: false
+showdate: true
 ---
 
 

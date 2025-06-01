@@ -1,12 +1,8 @@
 ---
 title: "Tarifs"
 date: 2025-06-01
-showDate: false
-showauthor: false
 draft: false
 description: "a description"
-showWordCount: false
-showReadingTime: false
 ---
 
 ## POUR LA SAISON 2024-2025
@@ -17,7 +13,10 @@ L'inscription annuelle court du 1er septembre au 31 août.
 Règlement des cotisations par virement uniquement.
 {{< /alert >}}
 
-L'IBAN de l'association est : `FR76 1751 5006 0008 2837 6463 453`.
+L'IBAN de l'association est : 
+```
+FR76 1751 5006 0008 2837 6463 453
+```
 
 ### 1ère adhésion
 
@@ -36,7 +35,7 @@ _Le tarif est dégressif en fonction du mois d'inscription comme ci-dessous_
 - Journalier : 12€, ou 6€ si né/e après le 31/12/04.
 
 
-# EQUIPEMENT ET FOURNITURES
+# Équipement et Fournitures
 {{< alert >}}
 Paiement des fournitures en espèces seulement.
 {{< /alert >}}

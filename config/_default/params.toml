@@ -2,7 +2,7 @@ colorScheme = "blowfish"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 replyByEmail = false
 disableImageOptimization = false
 disableTextInHeader = false
@@ -28,14 +28,14 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-showRecent = false
+showRecent = true
 showRecentItems = 5
-showMoreLink = false
-showMoreLinkDest = "/posts/"
-cardView = false
+showMoreLink = true
+showMoreLinkDest = "/articles/"
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = "enable"
-homepageImage = "stand.jpg"
+homepageImage = "stands.jpg"
 
 [article]
 showDate = true

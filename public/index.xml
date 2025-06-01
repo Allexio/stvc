@@ -6,16 +6,66 @@
     <description>Recent content on Société de Tir&lt;br&gt;le Vésinet Chatou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <managingEditor>dsebton@gmail.com (Daniel Sebton)</managingEditor>
-    <webMaster>dsebton@gmail.com (Daniel Sebton)</webMaster>
-    <copyright>© 2025 Daniel Sebton</copyright>
+    <managingEditor>contact@stvc.fr (Société de Tir le Vésinet Chatou)</managingEditor>
+    <webMaster>contact@stvc.fr (Société de Tir le Vésinet Chatou)</webMaster>
+    <copyright>© 2025 Société de Tir le Vésinet Chatou</copyright>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adhésion</title>
+      <link>http://localhost:1313/inscription/adh%C3%A9sion/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <author>contact@stvc.fr (Société de Tir le Vésinet Chatou)</author>
+      <guid>http://localhost:1313/inscription/adh%C3%A9sion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Historique</title>
+      <link>http://localhost:1313/association/historique/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <author>contact@stvc.fr (Société de Tir le Vésinet Chatou)</author>
+      <guid>http://localhost:1313/association/historique/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Horaires</title>
+      <link>http://localhost:1313/infos-pratiques/horaires/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <author>contact@stvc.fr (Société de Tir le Vésinet Chatou)</author>
+      <guid>http://localhost:1313/infos-pratiques/horaires/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/infos-pratiques/horaires/featured.png" />
+    </item>
+    
+    <item>
+      <title>Les Stands</title>
+      <link>http://localhost:1313/association/stands/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <author>contact@stvc.fr (Société de Tir le Vésinet Chatou)</author>
+      <guid>http://localhost:1313/association/stands/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Réinscription</title>
+      <link>http://localhost:1313/inscription/r%C3%A9inscription/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <author>contact@stvc.fr (Société de Tir le Vésinet Chatou)</author>
+      <guid>http://localhost:1313/inscription/r%C3%A9inscription/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Tarifs</title>
       <link>http://localhost:1313/infos-pratiques/tarifs/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <author>dsebton@gmail.com (Daniel Sebton)</author>
+      <author>contact@stvc.fr (Société de Tir le Vésinet Chatou)</author>
       <guid>http://localhost:1313/infos-pratiques/tarifs/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/infos-pratiques/tarifs/featured.png" />
@@ -24,21 +74,31 @@
     <item>
       <title>Règlement Intérieur</title>
       <link>http://localhost:1313/r%C3%A8glement/</link>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <author>dsebton@gmail.com (Daniel Sebton)</author>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <author>contact@stvc.fr (Société de Tir le Vésinet Chatou)</author>
       <guid>http://localhost:1313/r%C3%A8glement/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Horaires</title>
-      <link>http://localhost:1313/infos-pratiques/horaires/</link>
+      <title></title>
+      <link>http://localhost:1313/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>dsebton@gmail.com (Daniel Sebton)</author>
-      <guid>http://localhost:1313/infos-pratiques/horaires/</guid>
+      <author>contact@stvc.fr (Société de Tir le Vésinet Chatou)</author>
+      <guid>http://localhost:1313/articles/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/infos-pratiques/horaires/featured.png" />
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@stvc.fr (Société de Tir le Vésinet Chatou)</author>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+      
     </item>
     
   </channel>
