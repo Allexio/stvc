@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Société de Tir&lt;br&gt;le Vésinet Chatou</title>
+    <link>http://localhost:1313/infos-pratiques/</link>
+    <description>Recent content on Société de Tir&lt;br&gt;le Vésinet Chatou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>dsebton@gmail.com (Daniel Sebton)</managingEditor>
+    <webMaster>dsebton@gmail.com (Daniel Sebton)</webMaster>
+    <copyright>© 2025 Daniel Sebton</copyright>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/infos-pratiques/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tarifs</title>
+      <link>http://localhost:1313/infos-pratiques/tarifs/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <author>dsebton@gmail.com (Daniel Sebton)</author>
+      <guid>http://localhost:1313/infos-pratiques/tarifs/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/infos-pratiques/tarifs/featured.png" />
+    </item>
+    
+    <item>
+      <title>Horaires</title>
+      <link>http://localhost:1313/infos-pratiques/horaires/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dsebton@gmail.com (Daniel Sebton)</author>
+      <guid>http://localhost:1313/infos-pratiques/horaires/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/infos-pratiques/horaires/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
