@@ -2,7 +2,7 @@ disabled = false
 languageCode = "fr"
 languageName = "Francais"
 weight = 1
-title = "Société de Tir<br>le Vésinet Chatou"
+title = "Société de Tir le Vésinet Chatou"
 
 [params]
   displayName = "FR"
