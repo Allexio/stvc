@@ -30,28 +30,33 @@ Voici la procédure d'adhésion à la STVC :
 
 👉 Si vous n'avez jamais été membre d'un club de tir, dans un 1er temps, vous effectuerez le tir d’initiation. Vous pourrez vous inscrire à l'issue de celui-ci. 
 
-1- LE TIR D’INITIATION dure 1h45 à 2h. Virez d'abord 50€ (déductibles de l'adhésion) à STVC, IBAN = FR76 1751 5006 0008 2837 6463 453. Puis écrivez à contact@stvc.fr en indiquant votre règlement effectué, vos nom, prénom, date de naissance et numéro de portable, ainsi que vos disponibilités sur trois semaines dans les plages d'ouverture du stand pour effectuer votre tir d'initiation.
+# 1- Le tir d'initiation
+
+Il dure 1h45 à 2h. Virez d'abord 50€ (déductibles de l'adhésion) à STVC, IBAN = FR76 1751 5006 0008 2837 6463 453. Puis écrivez à contact@stvc.fr en indiquant votre règlement effectué, vos nom, prénom, date de naissance et numéro de portable, ainsi que vos disponibilités sur trois semaines dans les plages d'ouverture du stand pour effectuer votre tir d'initiation.
 Pour un(e) mineur(e), un responsable légal doit aussi envoyer un courriel à contact@stvc.fr indiquant "Je soussigné(e) …, représentant/e légal/e de …, autorise ma fille/mon fils à effectuer un tir d'initiation à la STVC". 
 Après réception du paiement, nous vous proposerons votre rendez-vous selon disponibilités. Il aura lieu au plus tôt quelques jours après réception du paiement de la séance mais, en raison du nombre parfois important de demandes, l'attente pourra durer plusieurs semaines.
 Prévenez par courriel au moins 48 heures à l’avance en cas d’annulation ou report, sans quoi le règlement effectué sera conservé sans contrepartie. Prévenez sur le téléphone fixe en cas de retard le jour même.
 
-2 - L’INSCRIPTION : virez d'abord la cotisation indiquée dans Tarifs en déduisant ce que vous avez payé pour l’initiation. Ensuite envoyez un seul courriel par adhérent à inscription@stvc.fr (les dossiers découpés en plusieurs messages et ceux envoyés en papier ne sont pas traités ; ne pas regrouper plusieurs adhérent dans le même courriel) comprenant :
+# 2 - L'inscription
+
+Virez d'abord la cotisation indiquée dans Tarifs en déduisant ce que vous avez payé pour l’initiation. Ensuite envoyez un seul courriel par adhérent à inscription@stvc.fr (les dossiers découpés en plusieurs messages et ceux envoyés en papier ne sont pas traités ; ne pas regrouper plusieurs adhérent dans le même courriel) comprenant :
 
 👉 3 fichiers séparés (ne pas envoyer un seul fichier PDF regroupant ces documents) adressés en pièce jointe à l'unique courriel par adhérent :
 
-    copie d'une pièce d'identité valide,
-    certificat médical de moins d'un an mentionnant l'absence de contre-indication à la pratique du tir sportif (le formulaire-type de la fédération, téléchargeable dans EDEN, n’est pas obligatoire),
-    photo en format électronique, de type photo d'identité : un autoportrait (selfie) le regard droit devant un mur clair convient. Pas de scan de photo d'identité, la résolution est insuffisante ;
+- copie d'une **pièce d'identité** valide,
+- **certificat médical** de moins d'un an mentionnant l'absence de contre-indication à la pratique du tir sportif (le formulaire-type de la fédération, téléchargeable dans EDEN, n’est pas obligatoire),
+- **photo** en format électronique, de type photo d'identité : un autoportrait (selfie) le regard droit devant un mur clair convient. Pas de scan de photo d'identité, la résolution est insuffisante ;
 
 👉 et dans le corps du courriel :
 
-    indication de votre règlement déjà effectué,
-    adresse postale et numéro de portable
-    confirmation que vous avez lu et compris le règlement intérieur, et que vous vous engagez à le respecter ;
+- indication de votre **règlement** déjà effectué,
+- **adresse postale**
+- **numéro de portable**
+- confirmation que vous avez **lu** et **compris** le règlement intérieur, et que vous vous **engagez à le respecter** ;
 
 👉 pour les mineurs, en plus :
 
-    autorisation parentale selon le modèle ci-dessous, envoyée à inscription@stvc.fr depuis l'adresse courriel d'un représentant légal, tandis que le reste du dossier est envoyé depuis l'adresse courriel de l'adhérent, sauf si trop jeune pour le faire.
+- **autorisation parentale** selon le modèle ci-dessous, envoyée à inscription@stvc.fr depuis l'adresse courriel d'un représentant légal, tandis que le reste du dossier est envoyé depuis l'adresse courriel de l'adhérent, sauf si trop jeune pour le faire.
 
 Votre dossier traité, le club vous indiquera comment créer votre compte sur EDEN. Vous pourrez pratiquer à partir de ce moment. 
 
@@ -59,5 +64,7 @@ MODELE D'AUTORISATION PARENTALE POUR LES MINEURS :
 
 Si le courriel d'inscription est envoyé par un représentant légal, le texte est copié-collé et adapté. Si le courriel d'inscription est envoyé par le mineur, ce que nous préférons, l'autorisation est envoyée à part dans un courriel du représentant légal.
 
+```text
 Je soussigné(e) …, représentant/e légal/e de …, autorise par la présente ma fille/mon fils à pratiquer le tir sportif à la STVC, participer aux cours et entraînements, y compris ceux de l’école de tir, ainsi qu’aux différents championnats FFT, challenges, concours et coupes, organisés sur le territoire national, jusqu’à sa majorité légale.
+```
 
