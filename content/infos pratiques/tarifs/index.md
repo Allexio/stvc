@@ -5,12 +5,12 @@ draft: false
 description: "a description"
 ---
 
-## POUR LA SAISON 2024-2025
+## Pour la saison 2024-2025
 
 L'inscription annuelle court du 1er septembre au 31 août.
 
 {{< alert >}}
-Règlement des cotisations par virement uniquement.
+Règlement des cotisations par **virement** uniquement.
 {{< /alert >}}
 
 L'IBAN de l'association est : 
@@ -21,8 +21,6 @@ FR76 1751 5006 0008 2837 6463 453
 ### 1ère adhésion
 
 *Le tarif est dégressif en fonction du mois d'inscription comme ci-dessous. Le montant payé pour le tir d'initiation est déductible de ces montants*
-Tarif standard
-
 
  {{< details title="Tarif Standard">}} 
 - **270€** en septembre et octobre,
@@ -64,9 +62,9 @@ _Le tarif est dégressif en fonction du mois d'inscription comme ci-dessous_
 - Journalier : 12€, ou 6€ si né/e après le 31/12/04.
 
 
-# Équipement et Fournitures
+## Équipement et Fournitures
 {{< alert >}}
-Paiement des fournitures en espèces seulement.
+Paiement des fournitures en **espèces** uniquement.
 {{< /alert >}}
 
 Les tireurs peuvent louer une arme pour une séance ou pour la saison, et acheter sur place cibles en carton et projectiles. 
