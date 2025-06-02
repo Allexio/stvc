@@ -14,20 +14,49 @@ Règlement des cotisations par virement uniquement.
 {{< /alert >}}
 
 L'IBAN de l'association est : 
-```
+```text
 FR76 1751 5006 0008 2837 6463 453
 ```
 
 ### 1ère adhésion
 
 *Le tarif est dégressif en fonction du mois d'inscription comme ci-dessous. Le montant payé pour le tir d'initiation est déductible de ces montants*
-- 270€ en septembre et octobre, 230 en novembre et décembre, 190 en janvier, 170 en février, 150 en mars, 130 en avril et 110 à partir de mai.
-- Si né/e après le 31/12/04 : 135€ en septembre et octobre, 120 en novembre et décembre, 105 en janvier, 95 en février, 85 en mars, 75 en avril et 65 à partir de mai.
-- Policiers municipaux dont la commune a signé une convention avec le club : 170€ en septembre et octobre, 155 en novembre et décembre, 140 en janvier, 130 en février, 120 en mars, 110 en avril et 100 à partir de mai.
+Tarif standard
+
+
+ {{< details title="Tarif Standard">}} 
+- **270€** en septembre et octobre,
+- **230€** en novembre et décembre,
+- **190€** en janvier,
+- **170€** en février,
+- **150€** en mars,
+- **130€** en avril,
+- **110€** à partir de mai.
+{{< /details >}}
+
+{{< details title="Tarif Si né/e après le 31/12/04">}} 
+- **135€** en septembre et octobre,
+- **120€** en novembre et décembre,
+- **105€** en janvier,
+- **95€** en février,
+- **85€** en mars,
+- **75€** en avril,
+- **65€** à partir de mai.
+{{< /details >}}
+
+{{< details title="Policiers municipaux dont la commune a signé une convention avec le club">}} 
+- **170€** en septembre et octobre,
+- **155€** en novembre et décembre,
+- **140€** en janvier,
+- **130€** en février,
+- **120€** en mars,
+- **110€** en avril,
+- **100€** à partir de mai.
+{{< /details >}}
 
 ### Réinscription
 
-- 270€, ou 135 si né/e après le 31/12/04.
+- **270€**, ou 135 si né/e après le 31/12/04.
 
 ### Droit de tir 2e club (licenciés FFTir inscrits dans un autre club)
 _Le tarif est dégressif en fonction du mois d'inscription comme ci-dessous_
