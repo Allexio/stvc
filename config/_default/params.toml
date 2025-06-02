@@ -15,6 +15,9 @@ selineAnalytics = { }
 buymeacoffee = { }
 verification = { }
 rssnext = { }
+mainSections = ["articles"]
+robots = "none"
+
 
 [header]
 layout = "basic"
@@ -45,6 +48,7 @@ showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
 showHero = false
+heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
@@ -64,11 +68,12 @@ showWordCount = true
 showZenMode = false
 
 [list]
-showHero = false
+showHero = true
+heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showViews = false
 showLikes = false
 showTableOfContents = false
