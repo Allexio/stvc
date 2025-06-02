@@ -5,17 +5,16 @@ description: "a description"
 enableCodeCopy: true
 ---
 
-28 rue du Tour des Bois
-78400 Chatou
+## Addresse postale
 
-lien vers la STVC sur Google Maps
 
-Pour une prise de contact ou un rendez-vous d'initiation :
-contact@stvc.fr
+<img src="carte.jpg" alt="screenshot google maps">
+<p style="text-align: center">
+28 rue du Tour des Bois <br> 78400 Chatou
+</p>
 
-Pour une adhésion après avoir effectué le tir d'initiation,
-ou pour une précision pour une réinscription :
-inscription@stvc.fr
+## Email
 
-Pour les polices municipales :
-polices@stvc.fr
+- Pour une prise de contact ou un rendez-vous d'initiation : contact@stvc.fr
+- Pour une adhésion (**après** le tir d'initiation), ou pour une précision pour une réinscription : inscription@stvc.fr
+- Pour les polices municipales : polices@stvc.fr
