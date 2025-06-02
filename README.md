@@ -1,4 +1,4 @@
-Code qui fait tournet une **proposition de nouveau site** pour la STVC
+Code qui fait tourner une **proposition de nouveau site** pour la STVC
 
 __Ce code/site n'est pas officiel__, il ne s'agit que d'une ébauche faite par un adhérent.
 
