@@ -2,9 +2,10 @@
     .prose {
         max-width: 90ch;
     }
+
     .max-w-prose {
-    max-width: 90ch;
-  }
+        max-width: 90ch;
+    }
 }
 
 .detailsIcon {
@@ -35,6 +36,7 @@
         object-fit: contain;
         border-radius: 15%;
     }
+
     .useful-link-images {
         position: relative;
         min-width: 100px;
