@@ -22,7 +22,7 @@ FR76 1751 5006 0008 2837 6463 453
 
 *Le tarif est dégressif en fonction du mois d'inscription comme ci-dessous. Le montant payé pour le tir d'initiation est déductible de ces montants*
 
- {{< details title="Tarif Standard">}} 
+ {{< details summary="Tarif Standard" open="true">}} 
 - **270€** en septembre et octobre,
 - **230€** en novembre et décembre,
 - **190€** en janvier,
@@ -32,7 +32,7 @@ FR76 1751 5006 0008 2837 6463 453
 - **110€** à partir de mai.
 {{< /details >}}
 
-{{< details title="Tarif Si né/e après le 31/12/04">}} 
+{{< details summary="Tarif Si né/e après le 31/12/04">}} 
 - **135€** en septembre et octobre,
 - **120€** en novembre et décembre,
 - **105€** en janvier,
@@ -42,7 +42,7 @@ FR76 1751 5006 0008 2837 6463 453
 - **65€** à partir de mai.
 {{< /details >}}
 
-{{< details title="Policiers municipaux dont la commune a signé une convention avec le club">}} 
+{{< details summary="Policiers municipaux dont la commune a signé une convention avec le club">}} 
 - **170€** en septembre et octobre,
 - **155€** en novembre et décembre,
 - **140€** en janvier,
